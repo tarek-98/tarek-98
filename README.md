@@ -3,7 +3,7 @@
 
 <br/>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="tarek-98" /></p>
+<p><img align="right" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif" alt="tarek-98" height="500px" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarek-98&label=Profile%20views&color=0e75b6&style=flat" alt="tarek-98" /> </p>
 
 <p align="left"> <a href="https://twitter.com/tareksa11949577" target="blank"><img src="https://img.shields.io/twitter/follow/tareksa11949577?logo=twitter&style=for-the-badge" alt="tareksa11949577" /></a> </p>
